@@ -1,0 +1,64 @@
+{
+  "places": [
+    {
+      "name": "Uleam",
+      "humidity":"89%",
+      "temperature":"25°C",
+      "geometry": [-0.953085, -80.744587]
+    },
+    {
+      "name": "PlayaMurcielago",
+      "humidity":"90%",
+      "temperature":"24°C",
+      "geometry": [-0.939976, -80.730587]
+    },
+    {
+      "name": "San Rafael",
+      "humidity":"83%",
+      "temperature":"23°C",
+      "geometry": [-0.951634, -80.732324]
+    },
+    {
+      "name": "Jocay",
+      "humidity":"85%",
+      "temperature":"24°C",
+      "geometry": [-0.959153, -80.714815]
+    },
+    {
+      "name": "Zur Klappe",
+      "humidity":"89%",
+      "temperature":"25°C",
+      "geometry": [52.493039, 13.387248]
+    },
+    {
+      "name": "OHM",
+      "humidity":"89%",
+      "temperature":"25°C",
+      "geometry": [52.510507, 13.42022]
+    },
+    {
+      "name": "M-BIA",
+      "humidity":"89%",
+      "temperature":"25°C",
+      "geometry": [52.522437, 13.409063]
+    },
+    {
+      "name": "Monster Ronson's Ichiban Karaoke",
+      "humidity":"89%",
+      "temperature":"25°C",
+      "geometry": [52.505188, 13.448437]
+    },
+    {
+      "name": "Marooush Restaurant - Lounge - Bar - Club",
+      "humidity":"89%",
+      "temperature":"25°C",
+      "geometry": [52.500938, 13.321438]
+    },
+    {
+      "name": "Kater Blau",
+      "humidity":"89%",
+      "temperature":"25°C",
+      "geometry": [52.512187, 13.425563]
+    }
+  ]
+}
